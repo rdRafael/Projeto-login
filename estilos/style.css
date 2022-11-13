@@ -40,6 +40,7 @@ section#login{
 
 }section#login > div#imagem{
     background: #5f2c82 url(../imagens/pexels-kendall-hoopes-1499627.jpg);
+    background-position: bottom center;
     height: 200px;
     background-size: cover;
     display: block;
